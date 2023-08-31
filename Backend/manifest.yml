@@ -1,0 +1,5 @@
+---
+applications:
+ - name: autosReto
+   random-route: true
+   memory: 128M
